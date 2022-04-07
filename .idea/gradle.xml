@@ -5,6 +5,7 @@
       <GradleProjectSettings>
         <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="$USER_HOME$/Bureau/adt-bundle-linux-x86_64-20140702/sdk/emulator/gradle-7.4.2" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
